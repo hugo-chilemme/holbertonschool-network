@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# The netstat command is used to display network-related information, including listening ports.
+
+netstat -a -p
+# The netstat command is used to display network-related information, including listening ports.
+# The options used are:
+# -a: Displays all listening and non-listening sockets.
+# -p: Shows the program or process associated with the socket.
+
+# End of the script.
